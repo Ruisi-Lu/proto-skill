@@ -9,13 +9,13 @@ An agent skill for [proto](https://moonrepo.dev/docs/proto) — the pluggable mu
 ## Install
 
 ```bash
-npx skills add <your-github-username>/proto-skill
+npx skills add Ruisi-Lu/proto-skill
 ```
 
 Or install globally:
 
 ```bash
-npx skills add <your-github-username>/proto-skill -g -y
+npx skills add Ruisi-Lu/proto-skill -g -y
 ```
 
 ## What this skill teaches the agent
@@ -36,10 +36,6 @@ Once installed, the agent will automatically use this skill when you ask about:
 - Setting up shell activation
 - Writing proto plugins
 - Debugging version detection issues
-
-## Contributing
-
-PRs welcome! See [moonrepo.dev/docs/proto](https://moonrepo.dev/docs/proto) for the official documentation.
 
 ## License
 
